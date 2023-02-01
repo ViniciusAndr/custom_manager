@@ -1,8 +1,6 @@
-﻿using Application.Bot.Commands.Interaction;
-using Discord;
+﻿using Discord;
 using Discord.Interactions;
 using Discord.WebSocket;
-using Microsoft.Extensions.Caching.Memory;
 
 namespace Application.Bot.Components
 {

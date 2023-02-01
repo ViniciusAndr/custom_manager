@@ -1,6 +1,4 @@
-﻿using System;
-using System.Linq;
-using Application.Bot.Commands.Interaction;
+﻿using Application.Bot.Commands.Interaction;
 using Application.Bot.Commands.Prefix;
 using Discord;
 using Discord.Interactions;
